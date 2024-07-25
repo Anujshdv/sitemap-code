@@ -1,0 +1,21 @@
+.sitemap-bg-container {
+    background-color: white;
+}
+
+.Sitemap-main-heading {
+    color: #bf660d;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.sitemap-links-heading {
+    font-size: 20px;
+    color: #4d4949;
+    font-weight: 600;
+}
+
+.sitemap-liks-list {
+    list-style-type: none;
+    font-size: 12px;
+    padding: 0px;
+}
